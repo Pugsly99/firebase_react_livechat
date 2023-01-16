@@ -1,71 +1,54 @@
-# Getting Started with Create React App
+# <div align="center">Firebase React Live Chat</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+    <br>
+    <a href="https://github.com/Pugsly99">
+        <img style="border-radius: 100%; height: 250px; width: auto" src="https://avatars.githubusercontent.com/u/72629902?s=460&u=3d57cdd64df52a007e362b2cb3e02573cdaa9c3a&v=4">
+    </a>
+</p>
 
-## Available Scripts
+<p align="center">
+  <small>Last Updated: Jan 16, 2023</small>
+</p>
 
-In the project directory, you can run:
+# ℹ️ Description
 
-### `npm start`
+A React site that utilizes firebase to allow users to join rooms and message in real time!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# 🧑‍💻 Contributers
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+| Name                                                     | GitHub Profile                          |
+| -------------------------------------------------------- | --------------------------------------- |
+| [Ryland Adams](https://www.linkedin.com/in/rylandadams/) | [Pugsly99](https://github.com/Pugsly99) |
 
-### `npm test`
+# ⚙️ Technologies Used
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   <a href="https://code.visualstudio.com/">Microsoft Visual Studio Code</a>
+-   <a href="https://github.com/">Git/GitHub</a>
+-   <a href="https://reactjs.org/">ReactJS</a>
+-   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
+-   <a href="https://firebase.google.com/">Firebase</a>
+-   <a href="https://www.javascript.com/">JavaScriptES6</a>
+-   <a href="https://reactjs.org/docs/introducing-jsx.html">JSX</a>
+-   <a href="https://www.npmjs.com/package/universal-cookie">Universal-Cookie</a>
+-   <a href="https://facebook.github.io/create-react-app/docs/getting-started">Create-React-App</a>
+-   <a href="https://nodejs.org/en/">Node.js</a>
+-   <a href="https://webpack.js.org/">Webpack</a>
+-   <a href="https://babeljs.io/">Babel</a>
+-   <a href="https://eslint.org/">Eslint</a>
 
-### `npm run build`
+# ☎️ Support / Contact Details
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   [Ryland Adams](mailto:rylandadams@yahoo.com)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# 🐛 Bugs / Issues
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Date | Error | Handled | Solution |
+| :--- | :---- | :------ | :------- |
+|      |       | ✅      |          |
 
-### `npm run eject`
+# ©️ License & Copyright
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# firebase_react_livechat
+Copyright (c) 2021 **_Ryland Adams_**
